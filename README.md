@@ -2,6 +2,13 @@
 
 Este é um aplicativo simples desenvolvido em Kotlin para realizar o cadastro de produtos. Ele permite adicionar, editar, excluir e listar produtos de forma prática e eficiente.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
+
+<img width=50% src="" alt="0">  <img width=50% src="" alt="0">  <img width=50% src="" alt="0">  <img width=50% src="" alt="0">
+
 * 🚀 Funcionalidades
 
 * 📌 Adicionar produtos com nome, descrição, preço e quantidade.
