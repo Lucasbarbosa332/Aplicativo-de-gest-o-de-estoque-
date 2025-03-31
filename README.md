@@ -7,7 +7,7 @@ Este é um aplicativo simples desenvolvido em Kotlin para realizar o cadastro de
 
 
 
-<img width=20% src="https://github.com/Lucasbarbosa332/Aplicativo-de-gest-o-de-estoque-/blob/main/images%20pack/215366235-33ee499a-65ee-43ee-9475-17b2a5b15412.png?raw=true" alt="0">  <img width=20% src="https://github.com/Lucasbarbosa332/Aplicativo-de-gest-o-de-estoque-/blob/main/images%20pack/215366243-0c16a8ba-8e6f-4b41-b46a-043e0537674f.png?raw=true" alt="0">  <img width=20% src="" alt="0">  <img width=20% src="" alt="0">
+<img width=20% src="https://github.com/Lucasbarbosa332/Aplicativo-de-gest-o-de-estoque-/blob/main/images%20pack/215366235-33ee499a-65ee-43ee-9475-17b2a5b15412.png?raw=true" alt="0">  <img width=20% src="https://github.com/Lucasbarbosa332/Aplicativo-de-gest-o-de-estoque-/blob/main/images%20pack/215366243-0c16a8ba-8e6f-4b41-b46a-043e0537674f.png?raw=true" alt="0">  <img width=20% src="https://github.com/Lucasbarbosa332/Aplicativo-de-gest-o-de-estoque-/blob/main/images%20pack/215366247-969c4d08-cf70-4456-b61e-e77100fab054.png?raw=true" alt="0">  <img width=20% src="" alt="0">
 
 * 🚀 Funcionalidades
 
