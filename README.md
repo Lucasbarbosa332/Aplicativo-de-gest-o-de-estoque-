@@ -7,7 +7,7 @@ Este é um aplicativo simples desenvolvido em Kotlin para realizar o cadastro de
 
 
 
-<img width=50% src="" alt="0">  <img width=50% src="" alt="0">  <img width=50% src="" alt="0">  <img width=50% src="" alt="0">
+<img width=50% src="https://github.com/Lucasbarbosa332/Aplicativo-de-gest-o-de-estoque-/blob/main/images%20pack/215366235-33ee499a-65ee-43ee-9475-17b2a5b15412.png?raw=true" alt="0">  <img width=50% src="" alt="0">  <img width=50% src="" alt="0">  <img width=50% src="" alt="0">
 
 * 🚀 Funcionalidades
 
